@@ -15,11 +15,12 @@ por fim eu fiz algumas operações com números, como a linguagem é dinamicamen
 
 # Introdução ao Machine Learning
 Criação e demonstração de um pequeno código de machine learning. Aqui eu ensino a máquina o que é um porco e o que é um cachorro com base em três critério simples:
-Tem pelo longo ? - Cão
 
-Tem Perna Curta ? - Porco
+> Tem pelo longo ? - Cão
 
-Faz " Auau" ? - Cão
+> Tem Perna Curta ? - Porco
+
+> Faz " Auau" ? - Cão
 
 Vou Usar o SVM do SKLEARN pela facilidade de operar e claro, pelo grau de complexidade desse treinamento e desse DF.
 
