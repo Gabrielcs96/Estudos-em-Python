@@ -3,6 +3,8 @@ Eu vou usar esse repositório para recriar e para adicionar coisas que eu progra
 
 Nesses repositórios nós temos: 
 
+# Meu primeiro Colab  
+Esse foi o primeiro código que eu fiz, ainda usando o Jupyter Notebook, no Anaconda. Transferi tudo pro Colab para rodar lá e testar se funcionava. O código é super simples, basicametne eu foquei em entender o que são tuplas, dicionários e listas, além de fazer algumas operações lógicas e matemáticas.  
 
 # Código de Python estudando estatística
 Aqui eu fiz um código super extenso, testando a biblioteca Pandas e usando o "google.colab" para importar arquivos para dentro do Colab. 
