@@ -27,5 +27,10 @@ Criação e demonstração de um pequeno código de machine learning. Aqui eu en
 Vou Usar o SVM do SKLEARN pela facilidade de operar e claro, pelo grau de complexidade desse treinamento e desse DF.
 
 
+# Plotly 
+Aqui, nós temos um uso extenso na criação de gráficos. Tenho de admitir que essa é uma parte um tanto quanto complexa, porque eu tive de ficar indo e vindo entre materiais técnicos para conseguir reproduzir as coisas que eu queria, na tela. Usei pequeno df do Spotify que eu achei no Kaggle. 
+
+
+
 # Uma gentil introdução ao Data Science
 Nesse código eu usei apenas os pandas de uma maneira super simples para conseguir tratar um pequeno data_frame que eu retirei da Alura. Com isso, eu fiz agumas pequenas modificações e criei uma correlação entre o DF de filmes e o outro de notas.
